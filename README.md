@@ -1,6 +1,3 @@
-# INVERSIONES-PARA-TODOS-
-Una página que te da consejos para invertir y a largo plazo ser millonario 
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
